@@ -4713,7 +4713,7 @@ const data = {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [25.6365661621094 - 33.8230285644531],
+        coordinates: [25.6365661621094, -33.8230285644531],
       },
       properties: {
         ele: 960.432324,
@@ -4727,7 +4727,7 @@ const data = {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [25.6353397369385 - 33.8244895935059],
+        coordinates: [25.6353397369385, -33.8244895935059],
       },
       properties: {
         ele: 960.432324,
@@ -4741,7 +4741,7 @@ const data = {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [25.6355857849121 - 33.8236618041992],
+        coordinates: [25.6355857849121, -33.8236618041992],
       },
       properties: {
         ele: 960.432324,
@@ -4755,7 +4755,7 @@ const data = {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [25.6345844268799 - 33.8249549865723],
+        coordinates: [25.6345844268799, -33.8249549865723],
       },
       properties: {
         ele: 960.432324,
@@ -4769,7 +4769,7 @@ const data = {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [25.6339282989502 - 33.8254013061523],
+        coordinates: [25.6339282989502, -33.8254013061523],
       },
       properties: {
         ele: 960.432324,
